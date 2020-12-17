@@ -50,3 +50,8 @@
     border:0;width:88px;height:31px
   }
 
+
+  .cajon{
+    display:grid;
+  }
+

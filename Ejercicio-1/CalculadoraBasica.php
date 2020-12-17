@@ -206,7 +206,7 @@
     }
     $registro =  $_SESSION['contador'];
    
-    echo "<label for='resultado'></label><input id='resultado' readonly placeholder='" . $registro . "'>";
+    echo "<div class='cajon'><label for='resultado'>Resultado</label><input id='resultado' readonly placeholder='" . $registro . "'></div>";
 
 
     echo "</div>";

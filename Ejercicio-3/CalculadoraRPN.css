@@ -53,3 +53,7 @@
   .grid{
       display: grid;
 }
+
+.cajon{
+    display:grid;
+  }

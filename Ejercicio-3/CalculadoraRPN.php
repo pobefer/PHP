@@ -124,7 +124,7 @@
     }
     $registro = $_SESSION['current'];
 
-    echo "<input id='resultado' readonly placeholder='" . $registro . "'>";
+    echo "<label for='resultado'><input id='resultado' readonly placeholder='" . $registro . "'>";
     echo "<div class='grid'>";
     echo "<label for='pila'>Pila</label>";
     $stack = $miCalculadora->stack;

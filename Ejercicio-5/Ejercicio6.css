@@ -1,0 +1,34 @@
+.contendor{
+    margin: 0 auto;
+    border-style: dotted;
+}
+
+body {
+    font: 400 1.5em Tahoma, sans-serif; 
+    line-height: 1.5em;
+    background-color: floralwhite;
+  }
+
+  h1 {
+    background-color:#FF5733; 
+    color: #fff;
+    text-transform: uppercase;
+    padding: 3.125em 1.5625em;
+    text-align: center;     
+  }
+
+
+.cCabecera{
+    border-style: solid;
+}
+.cLinea{
+    border-style: none none solid solid;
+}
+
+th{
+    padding: 1em;
+}
+
+td{
+    padding: 0.5em;
+}

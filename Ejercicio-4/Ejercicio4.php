@@ -80,7 +80,7 @@
                 </div>
             </div>
             <div>
-            <input type='submit'value='Calcular'>
+            <label for='resultado'></label><input type='submit'value='Calcular'>
             </div>
         </form>
         ";
